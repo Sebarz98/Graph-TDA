@@ -20,13 +20,13 @@ Centrality: Eigenvector, Betweenness, Closeness, Degree, Page Rank -
 Path length - 
 Modularity - 
 Assortativity - 
-Clustering coefficient - 
+Clustering coefficient.
 
 All measures were found different across groups, both between HC and PD, and between PSQI < 5 and > 5. 
 In particular, PD were found to have a lower density, degree and clustering coefficient, while showing higher centrality, and path length.
-The statistical significance of node degree strenght and clustering coefficient were found to be statistically significant (p < 0.05).
-Similarly, the PSQI > 5 group showed the same pattern of the PD group, but with on a lower degree. 
-The statistical significance of node degree strenght and clustering coefficient were found to be statistically significant (p < 0.05).
+The statistical significance of node degree strenght and clustering coefficient were tested and were significant (p < 0.05).
+Similarly, the PSQI > 5 group showed the same pattern of the PD group, but on a lower degree. 
+The statistical significance of node degree strenght and clustering coefficient were tested and significant (p < 0.05).
 
 <img width="607" alt="MOD_HC" src="https://github.com/Sebarz98/Graph-TDA/assets/70062910/930d294a-8540-4dd1-bd24-533be6231f69">
 Modulariyt of HC
