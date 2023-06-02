@@ -30,7 +30,7 @@ The statistical significance of node degree strenght and clustering coefficient 
 
 <img width="607" alt="MOD_HC" src="https://github.com/Sebarz98/Graph-TDA/assets/70062910/930d294a-8540-4dd1-bd24-533be6231f69">
 Modulariyt of HC
-<img width="714" alt="Screenshot 2023-06-02 at 16 55 09" src="https://github.com/Sebarz98/Graph-TDA/assets/70062910/6aa9802b-a61b-46e1-8df7-38b35715533f">
+<img width="602" alt="Screenshot 2023-06-02 at 16 48 58" src="https://github.com/Sebarz98/Graph-TDA/assets/70062910/27869505-dc74-4742-b1c5-41e5c2f7d713">
 Modularity of PD
 
 ### TDA
