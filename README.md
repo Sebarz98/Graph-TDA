@@ -14,13 +14,13 @@ After this step, the matrices were used as input for graph and topological data 
 Basic graph measures were calculated for HC and PD.
 
 The measures calculated were: 
-Density
-Degree/Strength - the word degree is commonly used for binary graphs, whereas strength tends to be used for weighted networks
-Centrality: Eigenvector, Betweenness, Closeness, Degree, Page Rank
-Path length
-Modularity
-Assortativity
-Clustering coefficient
+Density - 
+Degree/Strength - the word degree is commonly used for binary graphs, whereas strength tends to be used for weighted networks - 
+Centrality: Eigenvector, Betweenness, Closeness, Degree, Page Rank - 
+Path length - 
+Modularity - 
+Assortativity - 
+Clustering coefficient - 
 
 All measures were found different across groups, both between HC and PD, and between PSQI < 5 and > 5. 
 In particular, PD were found to have a lower density, degree and clustering coefficient, while showing higher centrality, and path length.
