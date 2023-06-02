@@ -44,7 +44,7 @@ Persistent homology examines the evolution of topological features, such as conn
 
 #### Persistence Diagram HC
 
-<img width="548" alt="Screenshot 2023-06-02 at 17 46 57" src="https://github.com/Sebarz98/Graph-TDA/assets/70062910/61eec6d0-e1e3-4b21-a70e-2341a14da350">
+<img width="613" alt="Screenshot 2023-06-02 at 17 46 47" src="https://github.com/Sebarz98/Graph-TDA/assets/70062910/f7d0f7e5-74bd-403f-a187-39ade6104cb2">
 
 #### Persistence Diagram PD
 
