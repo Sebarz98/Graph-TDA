@@ -27,10 +27,11 @@ In particular, PD were found to have a lower density, degree and clustering coef
 The statistical significance of node degree strenght and clustering coefficient were tested and were significant (p < 0.05).
 Similarly, the PSQI > 5 group showed the same pattern of the PD group, but on a lower degree. 
 The statistical significance of node degree strenght and clustering coefficient were tested and significant (p < 0.05).
+Modularity optimization was calculated with the Louvain algorithm. It measures the strength of the division of nodes into separate communities compared to what would be expected by chance
 
 <img width="607" alt="MOD_HC" src="https://github.com/Sebarz98/Graph-TDA/assets/70062910/356e87d0-1023-49b7-bf96-7d0c6d86f1ba">
 
-#### Modulariyt of HC
+#### Modularity of HC
 
 <img width="602" alt="Screenshot 2023-06-02 at 16 48 58" src="https://github.com/Sebarz98/Graph-TDA/assets/70062910/744e201c-2a9c-4c79-8892-5025dda5a8d5">
 
