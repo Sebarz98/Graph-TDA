@@ -1,10 +1,10 @@
 # Graph-TDA
-Graph Analysis and Topological Data Analysis of Parkinson's patients and Healthy Controls with PSQI &lt; 5 or > 5. HC were divided into good and bad sleepers according to the Pittsburgh Sleep Quality Index (PSQI).
+Graph Analysis and Topological Data Analysis of Parkinson's patients and Healthy Controls with PSQI 5 or > 5. HC were divided into good and bad sleepers according to the Pittsburgh Sleep Quality Index (PSQI).
 The cutoff used was PSQI > 5 for bad sleep quality (https://www.med.upenn.edu/cbti/assets/user-content/documents/Pittsburgh%20Sleep%20Quality%20Index%20(PSQI).pdf).
 
 ## fMRI Preprocessing 
 
-All the fmri preprocessing was done on brainlife.io (https://brainlife.io/about/) following their tutorial (https://brainlife.io/docs/tutorial/networkneuroscience-functional/) for the creation of the networks. The images were preprocessed as following: aligning T1 with FSL, generating freesurfer parc, mapping the hcp--1mm atlas, running fmriprep, and converting their outputs to connectivity matrices with https://github.com/faskowit/app-fmri-2-mat, whom uses 36p for nuisance regression. The resulting correlation matrices were downloaded as csv files.
+All the fmri preprocessing was done on brainlife.io (https://brainlife.io/about/) following their tutorial (https://brainlife.io/docs/tutorial/networkneuroscience-functional/) for the creation of the networks. The images were preprocessed as following: aligning T1 with FSL, generating freesurfer parc, mapping the hcp--1mm atlas, running fmriprep, and converting their outputs to connectivity matrices with https://github.com/faskowit/app-fmri-2-mat, which uses 36p for nuisance regression. The resulting correlation matrices were downloaded as csv files.
 
 ## Analysis
 The matrices were then import into Google Colab, where the last 14 rows and columns, corresponding to the subcortical structures resulting from the freesurfer parcellation, were dropped. 
@@ -15,7 +15,7 @@ Basic graph measures were calculated for HC and PD.
 
 The measures calculated were: 
 Density - 
-Degree/Strength - the word degree is commonly used for binary graphs, whereas strength tends to be used for weighted networks - 
+Degree/Strength - 
 Centrality: Eigenvector, Betweenness, Closeness, Degree, Page Rank - 
 Path length - 
 Modularity - 
